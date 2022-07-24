@@ -1,5 +1,5 @@
 # Ali Juya
-## Technologies that I use:
+## ⚡ Technologies
 - Java, Python, Django, HTML, CSS, JavaScript, SQL, ...
 - 🌱 I’m currently learning Django & Django RestFramework
 - 💞️ I’m looking to collaborate on backend web development
