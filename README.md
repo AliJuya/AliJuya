@@ -12,8 +12,8 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br>
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
