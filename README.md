@@ -24,3 +24,5 @@ WebSocket and REST exchange APIs, Parquet, Linux.
 
 Open to freelance and consulting on systematic trading infrastructure
 and quantitative research. Reach me through my Upwork profile or by email.
+- **Email:** alijuya.af@gmail.com
+- **Upwork:** [www.upwork.com/freelancers/~0178377761aa6d6c88](https://www.upwork.com/freelancers/~0178377761aa6d6c88)
